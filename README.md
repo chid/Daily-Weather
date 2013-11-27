@@ -12,3 +12,7 @@ This is just a python script that uses selenium in order to take a screenshot of
 ## Configuring
 
 You will need to input your lat/longitude and also some email account's password to use gmail's SMTP server (or change it yourself if you like)
+
+## DISCLAIMER
+
+Do whatever you like with this, I wrote it for myself. So it was just a very quick job of sticking together two scripts. Happy to take pull or feature requests 
