@@ -21,5 +21,5 @@ which would send me a forecast on Sunday night.
 
 ## Disclaimer
 
-Do whatever you like with this, I wrote it for myself (and writing this readme took longer). So it was just a very quick job of sticking together two scripts. Happy to take pull or feature requests 
+Do whatever you like with this, I wrote it for myself, so it is just a very quick job of sticking together two scripts. Happy to take pull or feature requests 
 
